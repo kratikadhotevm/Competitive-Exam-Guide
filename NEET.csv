@@ -1,0 +1,356 @@
+Year,Subject,Topic,No of questions
+2015,Physics,Capacitance,1
+2015,Physics,Alternating Current,1
+2015,Physics,Current Electricity,3
+2015,Physics,Centre of Mass,1
+2015,Physics,Electromagnetic Induction,1
+2015,Physics,Electromagnetic Field & Force,2
+2015,Physics,Fluid Mechanics,1
+2015,Physics,Electrostatics,1
+2015,Physics,Geometrical Optics,2
+2015,Physics,Friction,1
+2015,Physics,Modern Physics,5
+2015,Physics,Gravitation,1
+2015,Physics,Properties of Matter,1
+2015,Physics,Newton's Laws of Motion,1
+2015,Physics,Relative Motion,1
+2015,Physics,Rectilinear Motion,1
+2015,Physics,Semiconductor Devices,2
+2015,Physics,Rigid Body Dynamics,3
+2015,Physics,Sound Waves,1
+2015,Physics,Simple Harmonic Motion(SHM),2
+2015,Physics,Units & Dimensions,1
+2015,Physics,Thermodynamics,6
+2015,Physics,"Work,Power & Energy",4
+2015,Physics,Wave Optics,2
+2015,Chemistry,P and D Block,4
+2015,Chemistry,Chemical Bonding,4
+2015,Chemistry,Periodic Table,1
+2015,Chemistry,Metallurgy,1
+2015,Chemistry,S Block,2
+2015,Chemistry,Coordination Compound,2
+2015,Chemistry,Carbonyl Compounds,2
+2015,Chemistry,General Organic Chemistry,5
+2015,Chemistry,Reaction Mechanism,3
+2015,Chemistry,Aromatic Compounds,1
+2015,Chemistry,Chemistry in everyday life,1
+2015,Chemistry,Polymers,1
+2015,Chemistry,Hydrocarbons,2
+2015,Chemistry,Basic Principles & Techniques,1
+2015,Chemistry,Chemical Equilibrium,1
+2015,Chemistry,Atomic Structure,3
+2015,Chemistry,Ionic Equilibrium,1
+2015,Chemistry,Chemical Kinetics,2
+2015,Chemistry,Solid State,1
+2015,Chemistry,Mole Concept,1
+2015,Chemistry,Electrochemistry,1
+2015,Chemistry,Solution & Colligative Properties,3
+2015,Chemistry,Thermodynamics,1
+2015,Chemistry,Surface Chemistry,1
+2015,Biology,Application Biology,5
+2015,Biology,Animal Kingdom,4
+2015,Biology,Body Fluids and Circulation,3
+2015,Biology,Biomolecules,2
+2015,Biology,Cell Biology,8
+2015,Biology,Breathing and Exchange of Gases,1
+2015,Biology,Digestion and Absorption,2
+2015,Biology,Chemical control,1
+2015,Biology,Evolution,3
+2015,Biology,Ecology,13
+2015,Biology,Genetics,7
+2015,Biology,Osmoregulation and Excretion,2
+2015,Biology,Human Reproduction,3
+2015,Biology,Disease and Human Health,4
+2015,Biology,Coordination and Neural Control,2
+2015,Biology,Movement and Locomotion,2
+2015,Biology,Plant Diversity,6
+2015,Biology,Plant Anatomy,2
+2015,Biology,Plant Morphology,5
+2015,Biology,Reproduction in Flowering Plants ,4
+2015,Biology,Plant Physiology,7
+2015,Biology,Structural Organization in Animals,1
+2015,Biology,Reproductive Health,2
+2016,Physics,Capacitance,1
+2016,Physics,Alternating Current,2
+2016,Physics,Current Electricity,2
+2016,Physics,Centre of Mass,0
+2016,Physics,Electromagnetic Induction,4
+2016,Physics,Electromagnetic Field & Force,2
+2016,Physics,Fluid Mechanics,1
+2016,Physics,Electrostatics,2
+2016,Physics,Geometrical Optics,3
+2016,Physics,Friction,0
+2016,Physics,Modern Physics,3
+2016,Physics,Gravitation,2
+2016,Physics,Properties of Matter,0
+2016,Physics,Newton's Laws of Motion,0
+2016,Physics,Relative Motion,0
+2016,Physics,Rectilinear Motion,0
+2016,Physics,Semiconductor Devices,3
+2016,Physics,Rigid Body Dynamics,3
+2016,Physics,Sound Waves,2
+2016,Physics,Simple Harmonic Motion(SHM),1
+2016,Physics,Units & Dimensions,1
+2016,Physics,Thermodynamics,3
+2016,Physics,"Work,Power & Energy",0
+2016,Physics,Wave Optics,2
+2016,Chemistry,P and D Block,2
+2016,Chemistry,Chemical Bonding,9
+2016,Chemistry,Periodic Table,0
+2016,Chemistry,Metallurgy,1
+2016,Chemistry,S Block,1
+2016,Chemistry,Coordination Compound,2
+2016,Chemistry,Carbonyl Compounds,1
+2016,Chemistry,General Organic Chemistry,4
+2016,Chemistry,Reaction Mechanism,0
+2016,Chemistry,Aromatic Compounds,2
+2016,Chemistry,Chemistry in everyday life,2
+2016,Chemistry,Polymers,1
+2016,Chemistry,Hydrocarbons,1
+2016,Chemistry,Basic Principles & Techniques,0
+2016,Chemistry,Chemical Equilibrium,9
+2016,Chemistry,Atomic Structure,2
+2016,Chemistry,Ionic Equilibrium,2
+2016,Chemistry,Chemical Kinetics,1
+2016,Chemistry,Solid State,1
+2016,Chemistry,Mole Concept,1
+2016,Chemistry,Electrochemistry,3
+2016,Chemistry,Solution & Colligative Properties,3
+2016,Chemistry,Thermodynamics,2
+2016,Chemistry,Surface Chemistry,1
+2016,Biology,Application Biology,1
+2016,Biology,Animal Kingdom,4
+2016,Biology,Body Fluids and Circulation,2
+2016,Biology,Biomolecules,3
+2016,Biology,Cell Biology,3
+2016,Biology,Biotechnology,6
+2016,Biology,Digestion and Absorption,
+2016,Biology,Endocrine System,3
+2016,Biology,Evolution,4
+2016,Biology,Ecology,11
+2016,Biology,Food Production,1
+2016,Biology,Genetics,7
+2016,Biology,Human Reproduction,3
+2016,Biology,Disease and Human Health,4
+2016,Biology,Coordination and Neural Control,1
+2016,Biology,Morphology,4
+2016,Biology,Plant Diversity,2
+2016,Biology,Plant Anatomy,2
+2016,Biology,Plant Morphology,4
+2016,Biology,Reproduction in Flowering Plants ,3
+2016,Biology,Plant Physiology,7
+2016,Biology,Structural Organization in Animals,6
+2016,Biology,Reproductive Health,3
+2017,Physics,Capacitance,1
+2017,Physics,Current Electricity,2
+2017,Physics,Electro Magnetic Field,3
+2017,Physics,Electro Magnetic Induction,2
+2017,Physics,Electrostatics,2
+2017,Physics,Thermodynamics,5
+2017,Physics,Circular Motion,1
+2017,Physics,Electricity & Viscosity,1
+2017,Physics,Fluid Mechanics,1
+2017,Physics,Gravitation,2
+2017,Physics,Newton's Laws of Motion,1
+2017,Physics,Rectilinear Motion,1
+2017,Physics,Realtive Motion,1
+2017,Physics,Rigid Body Dynamics,3
+2017,Physics,Unit & Dimensions,1
+2017,Physics,"Work,Power & Energy",1
+2017,Physics,Electromagnetic Waves,1
+2017,Physics,Modern Physics,3
+2017,Physics,Nuclear Physics,1
+2017,Physics,Semiconductors,3
+2017,Physics,Wave Optics,3
+2017,Physics,Simple Harmonic Motion(SHM),2
+2017,Physics,Sound Waves,2
+2017,Chemistry,Chemical Bonding,5
+2017,Chemistry,P Block,1
+2017,Chemistry,Periodic Table,1
+2017,Chemistry,S Block,1
+2017,Chemistry,Coordination Compounds,4
+2017,Chemistry,D Block,1
+2017,Chemistry,F Block,1
+2017,Chemistry,Metallurgy,1
+2017,Chemistry,Qualitative Analysis,1
+2017,Chemistry,Reaction Mechanism,2
+2017,Chemistry,Aromatic Compounds,1
+2017,Chemistry,Biomolecules,1
+2017,Chemistry,Carbonyl Compounds,4
+2017,Chemistry,Chemistry in Everyday Life,1
+2017,Chemistry,Environmental Chemistry,1
+2017,Chemistry,Isomerphism,2
+2017,Chemistry,Atomic Structure,1
+2017,Chemistry,Chemical Equilibrium,2
+2017,Chemistry,Ionic Equilibrium,1
+2017,Chemistry,Mole Concept,1
+2017,Chemistry,Thermochemistry,2
+2017,Chemistry,Chemical Kinetics,2
+2017,Chemistry,Electrochemistry,1
+2017,Chemistry,Solid State,1
+2017,Chemistry,Colligative Properties,1
+2017,Chemistry,Surface Chemistry,1
+2017,Biology,Kingdom Monera,2
+2017,Biology,Virus,3
+2017,Biology,Cell Biology,4
+2017,Biology,Ecology,6
+2017,Biology,Genetics,5
+2017,Biology,Living World,1
+2017,Biology,Inheritance,6
+2017,Biology,Morphology,1
+2017,Biology,Morphology of Flowering Plants,1
+2017,Biology,Plant Anatomy,3
+2017,Biology,Plant Kingdom,6
+2017,Biology,Plant Morphology,2
+2017,Biology,Reproduction in Plants,5
+2017,Biology,Animal Kingdom,3
+2017,Biology,Animal Morphology,1
+2017,Biology,Animal Physiology,1
+2017,Biology,Biomolecules,4
+2017,Biology,Biotechnology,3
+2017,Biology,Evolution,1
+2017,Biology,Human Health and Disease,3
+2017,Biology,Human Physiology,16
+2017,Biology,Reproduction,1
+2017,Biology,Bioprocessing,1
+2017,Biology,Reproductive Health,2
+2017,Biology,Food Production,2
+2018,Physics,Alternating Current,1
+2018,Physics,Capacitance,1
+2018,Physics,Centre of Mass,1
+2018,Physics,Circular Motion,1
+2018,Physics,Current Electricity,4
+2018,Physics,Elasticity and Viscosity,2
+2018,Physics,Electro Magnetic Field,1
+2018,Physics,Electro Magnetic Induction,1
+2018,Physics,Electromagnetic Waves,2
+2018,Physics,Electrostatics,1
+2018,Physics,Error and Analysis,1
+2018,Physics,Friction,1
+2018,Physics,Geometrical Optics,3
+2018,Physics,Gravitation,2
+2018,Physics,Heat Transfer,1
+2018,Physics,KTG & Thermodynamics,4
+2018,Physics,Magnetism,1
+2018,Physics,Modern Physics,3
+2018,Physics,Newton's Laws of Motion,1
+2018,Physics,Nuclear Physics,1
+2018,Physics,Rectilinear Motion,1
+2018,Physics,Rigid Body Dynamics,4
+2018,Physics,Semiconductor Devices,3
+2018,Physics,Simple Harmonic Motion(SHM),1
+2018,Physics,Sound Waves,2
+2018,Physics,Wave Optics,1
+2018,Chemistry,Alcohols,1
+2018,Chemistry,Aromatic Compounds,4
+2018,Chemistry,Atomic Structure,1
+2018,Chemistry,Biomolecules,2
+2018,Chemistry,Carboxylic Acids,1
+2018,Chemistry,Chemical Bonding,1
+2018,Chemistry,Chemical Equilibrium,1
+2018,Chemistry,Chemical Kinetics,2
+2018,Chemistry,Coordination Compounds,3
+2018,Chemistry,D Block,2
+2018,Chemistry,Electrochemistry,1
+2018,Chemistry,Environmental Chemistry,1
+2018,Chemistry,Gaseous State,2
+2018,Chemistry,GOC,2
+2018,Chemistry,Haloalkane,1
+2018,Chemistry,Hydrocarbons,2
+2018,Chemistry,Ionic Equilibrium,2
+2018,Chemistry,Metallurgy,1
+2018,Chemistry,Mole Concept,2
+2018,Chemistry,P Block,5
+2018,Chemistry,Periodic table,1
+2018,Chemistry,Polymer,1
+2018,Chemistry,Redox Reactions,1
+2018,Chemistry,S Block,2
+2018,Chemistry,Solid State,1
+2018,Chemistry,Surface Chemistry,1
+2018,Chemistry,Thermodynamics,1
+2018,Biology,Application Biology,4
+2018,Biology,Biological Classification,6
+2018,Biology,Cell Biology,5
+2018,Biology,Ecology,12
+2018,Biology,Genetics,11
+2018,Biology,Living World,1
+2018,Biology,Plant Physiology,8
+2018,Biology,Reproduction in Organism,1
+2018,Biology,Reproduction in Plants,4
+2018,Biology,Structural Organisation of Plant,3
+2018,Biology,Structural Organisation of Animals,4
+2018,Biology,Animal Classification,4
+2018,Biology,Biology in Human Welfare,4
+2018,Biology,Biomolecules,1
+2018,Biology,Evolution,3
+2018,Biology,Human Physiology,15
+2018,Biology,Human Reproduction,5
+2019,Physics,Wave Optics,1
+2019,Physics,Sound Waves,2
+2019,Physics,Simple Harmonic Motion(SHM),1
+2019,Physics,Semiconductor Devices,3
+2019,Physics,Rigid Body Dynamics,4
+2019,Physics,Rectilinear Motion,1
+2019,Physics,Nuclear Physics,1
+2019,Physics,Newton's Laws of Motion,1
+2019,Physics,Modern Physics,3
+2019,Physics,Magnetism,1
+2019,Physics,Elasticity and Viscosity,2
+2019,Physics,Alternating Current,1
+2019,Physics,Centre of Mass,1
+2019,Physics,Thermodynamics,4
+2019,Physics,Heat Transfer,1
+2019,Physics,Gravitation,2
+2019,Physics,Geometrical Optics,3
+2019,Physics,Friction,1
+2019,Physics,Error and Analysis,1
+2019,Physics,Electroctatics,1
+2019,Physics,Electromagnetic Waves,2
+2019,Physics,Electro Magnetic Induction,1
+2019,Physics,Electro Magnetic Field,1
+2019,Physics,Current Electricity,4
+2019,Physics,Capacitance,1
+2019,Physics,Circular Motion,1
+2019,Chemistry,Electrochemstry,1
+2019,Chemistry,D Block,2
+2019,Chemistry,Coordination Compounds,3
+2019,Chemistry,Chemical Kinetics,2
+2019,Chemistry,Chemical Equilibrium,1
+2019,Chemistry,Alcohols,1
+2019,Chemistry,Environmental Chemistry,1
+2019,Chemistry,Haloalkane,1
+2019,Chemistry,Ionic Equilibrium,2
+2019,Chemistry,Mole Concept,2
+2019,Chemistry,Periodic Table,1
+2019,Chemistry,Redox Reactions,1
+2019,Chemistry,Solid State,1
+2019,Chemistry,Thermodynamics,1
+2019,Chemistry,Chemical Bonding,1
+2019,Chemistry,Carboxylic Acids,1
+2019,Chemistry,Biomolecule,2
+2019,Chemistry,Atomic Structure,1
+2019,Chemistry,Aromatic Structure,4
+2019,Chemistry,Gaseous State,2
+2019,Chemistry,Hydrocarbons,2
+2019,Chemistry,Metallurgy,1
+2019,Chemistry,P Block,5
+2019,Chemistry,Polymer,1
+2019,Chemistry,S Block,2
+2019,Chemistry,Surface Chemistry,1
+2019,Biology,Inheritance,6
+2019,Biology,Biological Classification,5
+2019,Biology,Reproduction in Flowering Plants,6
+2019,Biology,Molecular Basics,5
+2019,Biology,Breathing,5
+2019,Biology,Organism and Population,4
+2019,Biology,Human Reproduction,4
+2019,Biology,Morphology of Flowering Plants,4
+2019,Biology,Environmental Issues,4
+2019,Biology,Ozone Depletion,3
+2019,Biology,Kingdom Plantae,3
+2019,Biology,Meiosis,2
+2019,Biology,Structure of Pollen Grain,2
+2019,Biology,Pollination,2
+2019,Biology,Excretory Products,2
+2019,Biology,Cellular Respiration,4
+2019,Biology,Kingdom Animalia,2

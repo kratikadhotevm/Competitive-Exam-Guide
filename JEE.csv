@@ -1,0 +1,309 @@
+Year,Subject,Topic,No of questions
+2019,Maths,"Sets, Relation and Function",1
+2019,Maths,Sequences and Series,1
+2019,Maths,Binomial Theorem and Its Application,1
+2019,Maths,Differential Equation,1
+2019,Maths,Differential Calculus,1
+2019,Maths,Permutations and Combinations,1
+2019,Maths,Trigonometry,1
+2019,Maths,Mathematical Reasoning,1
+2019,Maths,Statics and Dynamics,1
+2019,Maths,Statistics and Probability,2
+2019,Maths,Matrices and Determinants,2
+2019,Maths,Vector Algebra,2
+2019,Maths,Three Dimensional Geometry,2
+2019,Maths,Complex numbers and Quadratic Equation,2
+2019,Maths,"Limits, Continuity and Differentiability",3
+2019,Maths,Integral Calculus,3
+2019,Maths,Coordinate Geometry,5
+2019,Chemistry,Electrochemistry,1
+2019,Chemistry,General Organic Chemistry,1
+2019,Chemistry,Stereochemistry,1
+2019,Chemistry,"Carbohydrates, amino acid and Polymers",1
+2019,Chemistry,Alkyl Halides,1
+2019,Chemistry,Carboxylic Acid and their Derivatives,1
+2019,Chemistry,Aromatic Compounds,1
+2019,Chemistry,Redox Reaction,1
+2019,Chemistry,Mole Concept,1
+2019,Chemistry,Solution and Colligative Properties,1
+2019,Chemistry,Hydrocarbon,1
+2019,Chemistry,Chemical Kinetics,1
+2019,Chemistry,Solid-State And Surface Chemistry,2
+2019,Chemistry,Thermodynamics And Gaseous State,2
+2019,Chemistry,Chemical Bonding,2
+2019,Chemistry,Chemical And Ionic Equilibrium,2
+2019,Chemistry,Atomic Structure,2
+2019,Chemistry,Nuclear Chemistry And Environment,2
+2019,Chemistry,The periodic table and Representative Elements,3
+2019,Chemistry,Transition Elements and Coordination Chemistry,3
+2019,Physics,Electromagnetics Induction; AC,1
+2019,Physics,Solids and Fluids,1
+2019,Physics,Waves,1
+2019,Physics,"Work, Power and Energy",1
+2019,Physics,Gravitation,1
+2019,Physics,Simple Harmonic Motion,1
+2019,Physics,"Unit, Dimension and Vector",1
+2019,Physics,Kinematics,1
+2019,Physics,Laws of motion,1
+2019,Physics,"Centre Of Mass, Impulse and Momentum",1
+2019,Physics,Rotation,1
+2019,Physics,Magnetics,2
+2019,Physics,Heat and Thermodynamics,3
+2019,Physics,Current Electricity,3
+2019,Physics,Electrostatics,3
+2019,Physics,Optics,3
+2019,Physics,Modern Physics,5
+2018,Maths,"Sets, Relation and Function",1
+2018,Maths,Sequences and Series,1
+2018,Maths,Binomial Theorem and Its Application,1
+2018,Maths,Differential Equation,1
+2018,Maths,Differential Calculus,1
+2018,Maths,Permutations and Combinations,1
+2018,Maths,Trigonometry,2
+2018,Maths,Mathematical Reasoning,1
+2018,Maths,Statics and Dynamics,1
+2018,Maths,Statistics and Probability,1
+2018,Maths,Matrices and Determinants,1
+2018,Maths,Vector Algebra,1
+2018,Maths,Three Dimensional Geometry,2
+2018,Maths,Complex numbers and Quadratic Equation,2
+2018,Maths,"Limits, Continuity and Differentiability",3
+2018,Maths,Integral Calculus,4
+2018,Maths,Coordinate Geometry,5
+2018,Chemistry,Electrochemistry,1
+2018,Chemistry,General Organic Chemistry,2
+2018,Chemistry,Stereochemistry,1
+2018,Chemistry,"Carbohydrates, amino acid and Polymers",1
+2018,Chemistry,Alkyl Halides,1
+2018,Chemistry,Carboxylic Acid and their Derivatives,1
+2018,Chemistry,Aromatic Compounds,1
+2018,Chemistry,Redox Reaction,3
+2018,Chemistry,Mole Concept,1
+2018,Chemistry,Solution and Colligative Properties,1
+2018,Chemistry,Hydrocarbon,2
+2018,Chemistry,Chemical Kinetics,1
+2018,Chemistry,Solid-State And Surface Chemistry,1
+2018,Chemistry,Thermodynamics And Gaseous State,1
+2018,Chemistry,Chemical Bonding,1
+2018,Chemistry,Chemical And Ionic Equilibrium,1
+2018,Chemistry,Atomic Structure,2
+2018,Chemistry,Nuclear Chemistry And Environment,3
+2018,Chemistry,The periodic table and Representative Elements,3
+2018,Chemistry,Transition Elements and Coordination Chemistry,3
+2018,Physics,Electromagnetics Induction; AC,1
+2018,Physics,Solids and Fluids,1
+2018,Physics,Waves,1
+2018,Physics,"Work, Power and Energy",1
+2018,Physics,Gravitation,1
+2018,Physics,Simple Harmonic Motion,2
+2018,Physics,"Unit, Dimension and Vector",2
+2018,Physics,Kinematics,1
+2018,Physics,Laws of motion,1
+2018,Physics,"Centre Of Mass, Impulse and Momentum",1
+2018,Physics,Rotation,1
+2018,Physics,Magnetics,3
+2018,Physics,Heat and Thermodynamics,2
+2018,Physics,Current Electricity,1
+2018,Physics,Electrostatics,3
+2018,Physics,Optics,4
+2018,Physics,Modern Physics,4
+2017,Maths,Binomial Theorem,1
+2017,Maths,Vector,1
+2017,Maths,Ellipse,1
+2017,Maths,Complex Numbers,1
+2017,Maths,Straight Line,1
+2017,Maths,Hyperbola,1
+2017,Maths,Application of Derivatives,2
+2017,Maths,3D Geometry,2
+2017,Maths,"Limit, Continuity and Differentiability",1
+2017,Maths,Functions,2
+2017,Maths,Tangents and Normals,1
+2017,Maths,Methods of Differentiation,1
+2017,Maths,Definite Integration,1
+2017,Maths,Area under Curve,1
+2017,Maths,Indefinite Integration,1
+2017,Maths,Differential Equation,1
+2017,Maths,Matrix and Determinants,2
+2017,Maths,Mathematical Reasoning,1
+2017,Maths,Probability,2
+2017,Maths,Permutation and Combination,1
+2017,Maths,Sequence and Series,1
+2017,Maths,Trigonometric Equation,1
+2017,Maths,Statistics and Quadratic Equation,2
+2017,Maths,Trigonometric Ratio and Identities,1
+2017,Chemistry,Periodic Table & Periodicity in Properties,1
+2017,Chemistry,Chemical Bonding,2
+2017,Chemistry,S Block Elements,2
+2017,Chemistry,Qualitative Analysis,1
+2017,Chemistry,Coordination Compounds,1
+2017,Chemistry,"Alkyl Halide, Alcohol and Ether",4
+2017,Chemistry,General Organic Chemistry,1
+2017,Chemistry,Biomolecules,1
+2017,Chemistry,Aromatic Compounds,1
+2017,Chemistry,Carbonyl Compounds,1
+2017,Chemistry,"Carbohydrates, Amino Acids and Polymers",1
+2017,Chemistry,"Grignard Reagent, Oxidation, Reduction, and Hydrolysis",1
+2017,Chemistry,Environmental chemistry,1
+2017,Chemistry,Ionic Equilibrium,1
+2017,Chemistry,Atomic Structure and Nuclear Chemistry,1
+2017,Chemistry,Thermodynamics and Thermochemistry,2
+2017,Chemistry,Mole Concept,3
+2017,Chemistry,Electrochemistry,1
+2017,Chemistry,Solution and Colligative Properties,1
+2017,Chemistry,Solid State,1
+2017,Chemistry,Surface Chemistry,1
+2017,Chemistry,Chemical Kinetics,1
+2017,Physics,Capacitance,2
+2017,Physics,Electromagnetic Field,1
+2017,Physics,Current Electricity,3
+2017,Physics,Electrostatics,1
+2017,Physics,Electromagnetic Induction,1
+2017,Physics,Calorimetry and Thermal Expansion,2
+2017,Physics,Thermodynamics and KTG,2
+2017,Physics,Gravitation,1
+2017,Physics,Elasticity and Viscosity,1
+2017,Physics,Rigid Body Dynamics,2
+2017,Physics,Rectilinear Motion and Vectors,1
+2017,Physics,"Work, Power and Energy",2
+2017,Physics,Surface Tension,1
+2017,Physics,Modern Physics,3
+2017,Physics,Semiconductors,1
+2017,Physics,Nuclear Physics,1
+2017,Physics,Geometrical & Physical Optics,1
+2017,Physics,Wave Optics,1
+2017,Physics,Principle of Communication,1
+2017,Physics,Sound Waves,1
+2017,Physics,Simple Harmonic Motion,1
+2016,Maths,Binomial Theorem,1
+2016,Maths,Vector,1
+2016,Maths,Circle,2
+2016,Maths,Complex Numbers,1
+2016,Maths,Parabola,1
+2016,Maths,Hyperbola,1
+2016,Maths,Coordinate Geometry (3D),2
+2016,Maths,Straight line,1
+2016,Maths,Functions,1
+2016,Maths,Application of Derivatives,1
+2016,Maths,Methods of Differentiation,1
+2016,Maths,"Limit, Continuity and Differentiability",1
+2016,Maths,Area under curves,1
+2016,Maths,Tangents and Normals,1
+2016,Maths,Differential Equations,1
+2016,Maths,Definite Integration,1
+2016,Maths,Mathematical Reasoning,1
+2016,Maths,Indefinite Integration,1
+2016,Maths,Permutation and Combination,1
+2016,Maths,Matrices and Determinants,2
+2016,Maths,Quadratic Equation,1
+2016,Maths,Probability,1
+2016,Maths,Statistics,1
+2016,Maths,Sequence and Series,2
+2016,Maths,Trigonometric Equations,1
+2016,Maths,Trigonometric Ratio and Identities,1
+2016,Physics,Capacitance,1
+2016,Physics,Alternating Current,1
+2016,Physics,Electromagnetic Field,2
+2016,Physics,Current Electricity,1
+2016,Physics,Thermodynamics and Kinetic Theory,3
+2016,Physics,Electrostatics,1
+2016,Physics,Gravitation,1
+2016,Physics,Error in Measurement,2
+2016,Physics,"Work, Power and Energy",2
+2016,Physics,Rigid Body Dynamics,2
+2016,Physics,Modern Physics,2
+2016,Physics,Electromagnetic Waves and Communication,2
+2016,Physics,Geometrical and Physical Optics,2
+2016,Physics,Semiconductors,4
+2016,Physics,Simple Harmonic Motion,1
+2016,Physics,Wave Optics,1
+2016,Physics,String Wave,1
+2016,Physics,Sound Waves,1
+2016,Chemistry,Hydrogen and Its Compounds,1
+2016,Chemistry,Chemical Bonding,2
+2016,Chemistry,Periodic Table and Periodicity in Properties,1
+2016,Chemistry,P Block Elements,1
+2016,Chemistry,Coordination Compounds,2
+2016,Chemistry,S Block Elements,1
+2016,Chemistry,Metallurgy,1
+2016,Chemistry,D and F Block Elements,2
+2016,Chemistry,Qualitative Analysis,1
+2016,Chemistry,Biomolecules,1
+2016,Chemistry,General Organic Chemistry,2
+2016,Chemistry,Environmental Chemistry,1
+2016,Chemistry,"Carbohydrates, Amino Acids and Polymers",1
+2016,Chemistry,Practical Organic Chemistry,2
+2016,Chemistry,Hydrocarbon,3
+2016,Chemistry,Atomic Structure and Nuclear Chemistry,1
+2016,Chemistry,Thermodynamics and Thermochemistry,1
+2016,Chemistry,Chemical Equilibrium,1
+2016,Chemistry,Solutions and Colligative Properties,1
+2016,Chemistry,Chemical Kinetics,1
+2016,Chemistry,Surface Chemistry,2
+2016,Chemistry,Gaseous State,1
+2015,Maths,Binomial Theorem,1
+2015,Maths,Vector,1
+2015,Maths,Ellipse,1
+2015,Maths,Complex Numbers,1
+2015,Maths,Straight Line,1
+2015,Maths,Hyperbola,1
+2015,Maths,Application of Derivatives,2
+2015,Maths,3D Geometry,2
+2015,Maths,"Limit, Continuity and Differentiability",1
+2015,Maths,Functions,2
+2015,Maths,Tangents and Normals,1
+2015,Maths,Methods of Differentiation,1
+2015,Maths,Definite Integration,1
+2015,Maths,Area under Curve,1
+2015,Maths,Indefinite Integration,1
+2015,Maths,Differential Equation,1
+2015,Maths,Matrix and Determinants,2
+2015,Maths,Mathematical Reasoning,1
+2015,Maths,Probability,2
+2015,Maths,Permutation and Combination,1
+2015,Maths,Sequence and Series,1
+2015,Maths,Trigonometric Equation,1
+2015,Maths,Statistics and Quadratic Equation,2
+2015,Maths,Trigonometric Ratio and Identities,1
+2015,Chemistry,Periodic Table & Periodicity in Properties,1
+2015,Chemistry,Chemical Bonding,2
+2015,Chemistry,S Block Elements,2
+2015,Chemistry,Qualitative Analysis,1
+2015,Chemistry,Coordination Compounds,1
+2015,Chemistry,"Alkyl Halide, Alcohol and Ether",4
+2015,Chemistry,General Organic Chemistry,1
+2015,Chemistry,Biomolecules,1
+2015,Chemistry,Aromatic Compounds,1
+2015,Chemistry,Carbonyl Compounds,1
+2015,Chemistry,"Carbohydrates, Amino Acids and Polymers",1
+2015,Chemistry,"Grignard Reagent, Oxidation, Reduction, and Hydrolysis",1
+2015,Chemistry,Environmental chemistry,1
+2015,Chemistry,Ionic Equilibrium,1
+2015,Chemistry,Atomic Structure and Nuclear Chemistry,1
+2015,Chemistry,Thermodynamics and Thermochemistry,2
+2015,Chemistry,Mole Concept,3
+2015,Chemistry,Electrochemistry,1
+2015,Chemistry,Solution and Colligative Properties,1
+2015,Chemistry,Solid State,1
+2015,Chemistry,Surface Chemistry,1
+2015,Chemistry,Chemical Kinetics,1
+2015,Physics,Capacitance,2
+2015,Physics,Electromagnetic Field,1
+2015,Physics,Current Electricity,3
+2015,Physics,Electrostatics,1
+2015,Physics,Electromagnetic Induction,1
+2015,Physics,Calorimetry and Thermal Expansion,2
+2015,Physics,Thermodynamics and KTG,2
+2015,Physics,Gravitation,1
+2015,Physics,Elasticity and Viscosity,1
+2015,Physics,Rigid Body Dynamics,2
+2015,Physics,Rectilinear Motion and Vectors,1
+2015,Physics,"Work, Power and Energy",2
+2015,Physics,Surface Tension,1
+2015,Physics,Modern Physics,3
+2015,Physics,Semiconductors,1
+2015,Physics,Nuclear Physics,1
+2015,Physics,Geometrical & Physical Optics,1
+2015,Physics,Wave Optics,1
+2015,Physics,Principle of Communication,1
+2015,Physics,Sound Waves,1
+2015,Physics,Simple Harmonic Motion,1
